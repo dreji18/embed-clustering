@@ -2,6 +2,10 @@
 
 Clustering using different non-parameteric models with the power of bert embeddings
 
+<a href="https://pypi.org/project/embed-clustering/">
+    <img alt="CI" src="https://img.shields.io/badge/pypi-v0.0.4-orange">
+</a>
+
 The project includes the implementation of different non-parametric clustering models with the power of bert embeddings to identify groups of similar objects from textual data in python.
 
 | Nonparametric models concept |
