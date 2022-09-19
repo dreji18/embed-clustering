@@ -1,0 +1,4 @@
+tweet-preprocessor
+pandas
+numpy
+sentence_transformers
