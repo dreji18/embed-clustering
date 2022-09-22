@@ -2,6 +2,7 @@
 
 Clustering using different non-parameteric models with the power of bert embeddings
 
+[![Downloads](https://pepy.tech/badge/embed-clustering)](https://pepy.tech/project/embed-clustering)
 <a href="https://pypi.org/project/embed-clustering/">
     <img alt="CI" src="https://img.shields.io/badge/pypi-v0.0.5-orange">
 </a>
