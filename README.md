@@ -17,6 +17,9 @@ The project includes the implementation of different non-parametric clustering m
 | Can be understood as having a random number of parameters | 
 | Number of parameters can grow with the dataset | 
 
+## Tutorial
+[<img src="https://github.com/dreji18/embed-clustering/blob/main/images/thumbnail%20(embed-clustering).png" width="50%">](https://youtu.be/lHpZ1PHX7-U "Watch the video")
+
 ## Definition
 model a collection of distributions (distribution over distribution)
 
